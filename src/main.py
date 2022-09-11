@@ -3,7 +3,7 @@
 import sys
 
 # Constants
-ARRAY_SIZE = 20
+ARRAY_SIZE = 30,000
 
 # Implements the BF array
 class BFArray:
